@@ -1,2 +1,2 @@
-# Sumo/Line following/RC-robot
+# Sumo/Line following/Remote controlled robot
 In progress.
